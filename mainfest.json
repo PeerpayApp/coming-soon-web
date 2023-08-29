@@ -1,0 +1,10 @@
+{
+  "name": "Peerpay",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone"
+}
